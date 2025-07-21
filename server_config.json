@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "research": {
+      "command": "uv",
+      "args": ["run", "server.py"]
+    },
+    "pgserver": {
+      "command": "node",
+      "args": ["pgserver.js"]
+    }
+  }
+}
